@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/dashsell/AndroidStudioProjects/AndroidLTesting/app/build/intermediates/pre-dexed/debug/classes-4acee37884d8b006fb961aa2a2b5d4ddffda8eb7.jar"
+        jar="/Users/dashsell/AndroidStudioProjects/AndroidLTesting/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="25c58e61f70a3d78e5c5abcfc9db0555fc869b7d"/>
+    <item
+        dex="/Users/dashsell/AndroidStudioProjects/AndroidLTesting/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-23b37725e3c83374d3d35aaa1b35b643ecee257b.jar"
+        jar="/Users/dashsell/AndroidStudioProjects/AndroidLTesting/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1a625e8a94bf7c73e0f9d30ad1b483ff6ea64e9"/>
+    <item
+        dex="/Users/dashsell/AndroidStudioProjects/AndroidLTesting/app/build/intermediates/pre-dexed/debug/classes-e5041da90c1d3d9380a72e897af93d85d7881a45.jar"
+        jar="/Users/dashsell/AndroidStudioProjects/AndroidLTesting/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="14d500eeb7128db6c0f9b55f166c42eacf00f3b6"/>
+    <item
+        dex="/Users/dashsell/AndroidStudioProjects/AndroidLTesting/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-9da56907a54bc62b80b021d0066dc3e5625c73ba.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0-rc1/support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb"/>
+    <item
+        dex="/Users/dashsell/AndroidStudioProjects/AndroidLTesting/app/build/intermediates/pre-dexed/debug/classes-d7584df06b48ebe28368627aa29d031d218ebfcb.jar"
+        jar="/Users/dashsell/AndroidStudioProjects/AndroidLTesting/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae84435ebc95f67a3f5e511025e96caa8688da2"/>
+
+</pre-dex-items>
