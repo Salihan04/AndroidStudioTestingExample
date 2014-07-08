@@ -14,4 +14,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/hello_world"/>
 
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText" />
+
 </RelativeLayout>
