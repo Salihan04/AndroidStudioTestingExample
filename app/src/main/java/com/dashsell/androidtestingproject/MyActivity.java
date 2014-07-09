@@ -1,10 +1,13 @@
 package com.dashsell.androidtestingproject;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 
 import java.util.Random;
@@ -17,6 +20,7 @@ public class MyActivity extends Activity {
     private int stateNumber;
 
     private EditText editText;
+    private Button button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +35,15 @@ public class MyActivity extends Activity {
         }else {
             stateNumber = 0;
         }
+
+        button = (Button) findViewById(R.id.button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = MyActivity2.makeIntent(getApplicationContext(), null);
+                startActivity(intent);
+            }
+        });
 
     }
 

@@ -7,5 +7,11 @@
         jumboMode="false"
         revision="20.0.0"
         sha1="5ea808394b5c965d59475af60cbac91110bccb9f"/>
+    <item
+        dex="/Users/dashsell/Desktop/AndroidStudioTestingExample/app/build/intermediates/pre-dexed/test/debug/mockito-all-1.9.5-34d1eec755089cc8ee22eaaff1f998f95049a170.jar"
+        jar="/Users/dashsell/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-all/1.9.5/79a8984096fc6591c1e3690e07d41be506356fa5/mockito-all-1.9.5.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="79a8984096fc6591c1e3690e07d41be506356fa5"/>
 
 </pre-dex-items>
